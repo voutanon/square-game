@@ -1,5 +1,4 @@
 <template>
-<pre>{{squares}}</pre>
   <v-text-field
     v-model="size.sizeX"
     label="Size X"
